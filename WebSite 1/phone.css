@@ -1,0 +1,13 @@
+#home{
+
+}
+
+#transition {
+    display: flex;
+    flex-direction: column;
+}
+
+.zoom h1{
+    font-size: 1.6rem;
+}
+
